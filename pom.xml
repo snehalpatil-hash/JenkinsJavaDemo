@@ -33,7 +33,7 @@
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
-            <version>5.8.0</version>
+            <version>6.1.0</version>
         </dependency>
 
         <!-- TestNG (optional for testing) -->
@@ -46,7 +46,7 @@
         <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
-    <version>5.8.0</version>
+    <version>6.1.0</version>
 </dependency>
 
     </dependencies>
